@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyassp002&theme=midnight-purple&hide_border=false)
 <br/>
-
-
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyassp002&layout=compact&theme=chartreuse-dark)
+<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=rey_0_2&layout=compact&theme=neon)
 
 
 
@@ -30,4 +33,4 @@ Here are some ideas to get you started:
 ---
 ![](https://visitcount.itsvg.in/api?id=rey_0_2&label=Profile%20Views&pretty=true)
 <br/>
-<!--[![wakatime](https://wakatime.com/badge/user/d9eddcfd-8a78-4188-b6d9-6d0af2abf114.svg)](https://wakatime.com/@d9eddcfd-8a78-4188-b6d9-6d0af2abf114)-->
+[![wakatime](https://wakatime.com/badge/user/6afcb4ad-1ff3-4a3e-a0db-0e69a0603898.svg)](https://wakatime.com/@6afcb4ad-1ff3-4a3e-a0db-0e69a0603898)
