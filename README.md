@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td style="padding: 10px; min-height: 200px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shreyassp002&show_icons=true&theme=vision-friendly-dark&hide=contribs&hide_border=false&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shreyassp002&show_icons=true&theme=vision-friendly-dark&hide=contribs&hide_border=false&include_all_commits=true"/>
     </td>
     <td style="padding: 10px; min-height: 200px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyassp002&theme=midnight-purple&hide_border=false"/>
