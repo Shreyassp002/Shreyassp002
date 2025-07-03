@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td style="padding: 10px; min-height: 200px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyassp002&layout=compact&theme=chartreuse-dark"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyassp002&layout=compact&theme=chartreuse-dark&hide=shell,jupyter%20notebook"/>
     </td>
     <td style="padding: 10px; min-height: 200px;">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rey_0_2&layout=compact&theme=neon"/>
